@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+    <Hotel category="5star">
+        <Name>Serena Hotel</Name>
+        <Room>Suite Room</Room>
+        <Price>500</Price>
+        <URL>https://www.serenahotels.com</URL>
+    </Hotel>
+    <Hotel category="5star">
+        <Name>Kigali Marriott Hotel</Name>
+        <Room>Deluxe Room</Room>
+        <Price>450</Price>
+        <URL>https://www.marriott.com</URL>
+    </Hotel>
+    <Hotel category="5star">
+        <Name>Radisson Blu Hotel</Name>
+        <Room>Executive Suite</Room>
+        <Price>480</Price>
+        <URL>https://www.radissonhotels.com</URL>
+    </Hotel>
+    <Hotel category="4star">
+        <Name>Mythos Boutique Hotel</Name>
+        <Room>Premium Suite</Room>
+        <Price>520</Price>
+        <URL>https://www.Mythos.rw</URL>
+    </Hotel>
+    <Hotel category="4star">
+        <Name>Hotel des Mille Collines</Name>
+        <Room>Luxury Room</Room>
+        <Price>400</Price>
+        <URL>https://millecollines.rw</URL>
+    </Hotel>
+    
+    <Hotel category="4star">
+        <Name> Heaven Restaurant and Boutique Hotel</Name>
+        <Room>Standard Room</Room>
+        <Price>150</Price>
+        <URL>https://heavenrwanda.com</URL>
+    </Hotel>
+    <Hotel category="3star">
+        <Name>Lemigo Hotel</Name>
+        <Room>Standard Room</Room>
+        <Price>120</Price>
+        <URL>https://www.lemigohotel.com</URL>
+    </Hotel>
+    <Hotel category="3star">
+        <Name>Park Inn by Radisson</Name>
+        <Room>Comfort Room</Room>
+        <Price>180</Price>
+        <URL>https://www.radissonhotels.com</URL>
+    </Hotel>
+    
+    <Hotel category="GuestHouse">
+        <Name>Discover Rwanda Youth Hostel</Name>
+        <Room>Shared Dormitory</Room>
+        <Price>25</Price>
+         <URL>https://www.radissonhotels.com</URL>
+    </Hotel>
+    <Hotel category="GuestHouse">
+        <Name>Quiet Haven Guest House</Name>
+        <Room>Private Room</Room>
+        <Price>45</Price>
+         <URL>https://www.radissonhotels.com</URL>
+    </Hotel>
+</Hotels>
